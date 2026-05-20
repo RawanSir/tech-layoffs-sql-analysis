@@ -10,11 +10,11 @@ for career decision making.
 ## Dataset
 Two datasets were used in this analysis:
 
-**tech_layoffs_til_2025.csv** — 2,412 layoff events including company name, 
+**tech_layoffs_til_2025.csv** : 2,412 layoff events including company name, 
 industry, country, funding stage, employees laid off, and company size 
 before and after layoffs.
 
-**layoffs_location_with_coordinates.csv** — 243 unique headquarters 
+**layoffs_location_with_coordinates.csv** : 243 unique headquarters 
 locations with geographic coordinates.
 
 Source: Kaggle — Tech Layoffs 2020 to 2025
