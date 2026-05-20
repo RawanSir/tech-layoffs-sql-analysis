@@ -54,6 +54,6 @@ with structural workforce changes driven by AI and automation
 - Month and Quarter columns added for time series analysis
 
 ## Repository Structure
-- README.md — project overview and findings
-- cleaning.sql — data cleaning CTE
-- analysis.sql — all analysis queries with findings
+- README.md : project overview and findings
+- cleaning.sql : data cleaning CTE
+- analysis.sql : all analysis queries with findings
